@@ -5,3 +5,6 @@
 # Before standardization:
 ### Training Data
 <img width="946" height="896" alt="Screenshot 2026-02-28 at 1 59 15 PM" src="https://github.com/user-attachments/assets/35b2b112-7b52-4f29-8453-6f17571702c3" />
+
+### Statsmodels documentation
+https://www.statsmodels.org/stable/regression.html
