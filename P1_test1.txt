@@ -1,0 +1,7 @@
+You’re given a dataset with 9 variables. Submit to Gradescope:
+A brief definition/description of what the variables are measuring
+Define a real-world motivation for fitting a linear regression model to this dataset. 
+What would be the response variable? Who would want such a model and why?
+Visualize the distribution of each variable. Are any of them normally distributed?
+Visualize the relationship between each predictor variable and the chosen response variable. Do any of them have a linear relationship?
+Standardize, normalize, or otherwise transform each predictor variable. Did this change their distributions? Did this change their relationships with the response variable? Use visuals to support your answers.

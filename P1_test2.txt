@@ -1,0 +1,12 @@
+Write code (in the programming language of your choice) that can apply gradient descent optimization to fit a linear regression model, using MSE as the objective function. Apply that code to the concrete data. Evaluate the performance of your models by calculating variance explained (R-squared):
+1-MSE/( Variance(observed) )
+Play around with hyperparameter values until you achieve a positive variance explained on the training data with at least two of the predictors. You can use different hyperparameter values for different models. 
+Submit to Gradescope: 
+	Your univariate model fits from training:
+	Set 1: the predictor values are normalized or standardized, and each predictor feature is used to fit its own univariate model
+	Set 2: the predictor values are not transformed in any way, and each predictor feature is used to fit its own univariate model
+	Your multi-variate model fits from training:
+	Set 1: the predictor values are normalized or standardized, and all predictor features are used in the same multivariate model
+	Set 2: the predictor values are not transformed in any way, and all predictor features are used in the same multivariate model
+	Testing data results
+	Visualizations of results

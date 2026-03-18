@@ -1,0 +1,8 @@
+Find a function or package or library (in the programming language of your choice) that can perform statistical analysis of features in a linear regression model. Submit to Gradescope:
+Performance of this model on the training data compared to the model you optimized with gradient descent, with visuals
+P-values of each feature 
+Which features are important?
+Pre-process the training data predictor variables in a way that would change the p-values
+Performance of model with pre-processed data
+P-values of features after pre-processing
+Code needed to replicate your work
